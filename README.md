@@ -30,3 +30,8 @@ MODULE 3-COUNTING METHOD,PERMUTATION COMBINATION, PIGEONHOLE
 MODULE 4-GRAPH THEORY, TREE PART
 
 MODULE 5-FINITE AUTOMATA
+# .·°՞(っ-ᯅ-ς)՞°· ACCESS NOTE AND ASSIGNNMENT
+|**SECI**|   CLICK  | 
+|-------------|---------------------------------|
+| **NOTE**|   [NOTE](https://limlining.github.io/web-note/note4.html) | 
+| **ASSIGNMENT**|   [ASSIGNMENT](https://limlining.github.io/web-note/assignment3.html)  | 
